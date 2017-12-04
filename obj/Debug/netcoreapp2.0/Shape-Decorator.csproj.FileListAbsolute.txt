@@ -1,0 +1,10 @@
+d:\Source\Shape-Decorator\bin\Debug\netcoreapp2.0\Shape-Decorator.deps.json
+d:\Source\Shape-Decorator\bin\Debug\netcoreapp2.0\Shape-Decorator.runtimeconfig.json
+d:\Source\Shape-Decorator\bin\Debug\netcoreapp2.0\Shape-Decorator.runtimeconfig.dev.json
+d:\Source\Shape-Decorator\bin\Debug\netcoreapp2.0\Shape-Decorator.dll
+d:\Source\Shape-Decorator\bin\Debug\netcoreapp2.0\Shape-Decorator.pdb
+d:\Source\Shape-Decorator\obj\Debug\netcoreapp2.0\Shape-Decorator.csproj.CoreCompileInputs.cache
+d:\Source\Shape-Decorator\obj\Debug\netcoreapp2.0\Shape-Decorator.AssemblyInfoInputs.cache
+d:\Source\Shape-Decorator\obj\Debug\netcoreapp2.0\Shape-Decorator.AssemblyInfo.cs
+d:\Source\Shape-Decorator\obj\Debug\netcoreapp2.0\Shape-Decorator.dll
+d:\Source\Shape-Decorator\obj\Debug\netcoreapp2.0\Shape-Decorator.pdb
