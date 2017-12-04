@@ -6,7 +6,13 @@ namespace Shape_Decorator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            IShape circle = new Circle();
+            IShape redCircle = new RedShapeDecorator(new Circle());
+            IShape redRectangle = new RedShapeDecorator(new Rectangle());
+
+            circle.draw();
+            redCircle.draw();
+            redRectangle.draw();
         }
     }
 }
