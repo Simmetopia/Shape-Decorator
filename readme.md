@@ -1,6 +1,7 @@
 # Decorator Pattern in .NET core 2.
 
-##Shape Implementation This is made with a shape interface, which has
+## Shape Implementation This is made with a shape interface, which has
+
 implementet classes Circle and Rectangle. These classes are then the "concrete
 implementation of the IShape Interface.
 
